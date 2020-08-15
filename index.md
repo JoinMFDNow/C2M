@@ -1,4 +1,4 @@
-## C2M 2.0 beta & Blender 2.8+ plugin 
+# C2M 2.0 beta & Blender 2.8+ plugin 
 
 **NOT RELEASED YET!!**
 
