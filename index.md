@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## C2M 2.0 beta with Blender importer
 
-You can use the [editor on GitHub](https://github.com/sheilan102/C2M/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Download link](:))
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
