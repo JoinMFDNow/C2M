@@ -1,37 +1,32 @@
-## C2M 2.0 beta with Blender importer
+## C2M 2.0 beta & Blender 2.8+ plugin ONLY BO2 IS **SUPPORTED IN THIS RELEASE**
 
-[Download link](:))
+[Download link] (NOT YET)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Supported games
+- BO2
 
-### Markdown
+### Blender plugin features
+- Models
+- Materials
+- Lights
+- Decals
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Installing the Blender plugin
+1. Extract **io_c2m_import.zip**
+2. In Blender, go to **Edit > Preferences**
+3. Click the Install... button and select the plugin ZIP file
 
-```markdown
-Syntax highlighted code block
+### Usage
+1. Load any map (preferrably via private match)
+2. Click the circle arrow button to load BSP
+3. After the map data appears on the right side of C2M's window, hit the box button to extract map data and wait untill map & textures are exported (might consume a lot of memory and time, be patient).
+4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map. (May take a while, so be patient)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Known issues
+- Decals use the same UV set as the base material below them
+- SpotLight direction might be wrong
 
-1. Numbered
-2. List
+Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) | [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sheilan102/C2M/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you wish to support the development of this tool, feel free to donate via [PayPal](https://paypal.me/ksheilan).
