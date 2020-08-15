@@ -1,6 +1,6 @@
-## C2M 2.0 beta & Blender 2.8+ plugin ONLY BO2 IS **SUPPORTED IN THIS RELEASE**
+## C2M 2.0 beta & Blender 2.8+ plugin 
 
-[Download link] (NOT YET)
+**NOT RELEASED YET!!**
 
 ### Supported games
 - BO2
