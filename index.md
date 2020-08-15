@@ -27,6 +27,6 @@
 - Decals use the same UV set as the base material below them
 - SpotLight direction might be wrong
 
-Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) | [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
+Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
 If you wish to support the development of this tool, feel free to donate via [PayPal](https://paypal.me/ksheilan).
