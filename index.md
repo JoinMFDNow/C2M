@@ -22,7 +22,7 @@
 3. After the map data appears on the right side of C2M's window, hit the box button to extract map data and wait untill map & textures are exported (might consume a lot of memory and time, be patient).
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
-#### Dynamic models
+### Dynamic models
 For whatever reason, the dynamic model names displayed in map ents aren't always the actual names of the models, so dynamic models that weren't found will be spawned as arrows in Blender instead.
 
 To deal with that, follow these steps (I'll use one of mp_raid's vehicles as example):
