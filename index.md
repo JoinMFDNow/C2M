@@ -12,9 +12,8 @@
 - Decals
 
 ### Installing the Blender plugin
-1. Extract **io_c2m_import.zip**
-2. In Blender, go to **Edit > Preferences**
-3. Click the Install... button and select the plugin ZIP file
+1. Go to **Edit > Preferences**
+2. Click the Install... button and select **C2M_IMPORTER.zip**
 
 ### Usage
 1. Load any map (preferrably via private match)
