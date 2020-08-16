@@ -33,6 +33,8 @@ To deal with that, follow these steps (I'll use one of mp_raid's vehicles as exa
 5. Once you got the name of the model, go back to `dynamic_models.cfg` and replace `xmodelName` with the actual name. **You can delete any model you don't wish to add**
 6. Re-export the map, and the models should be there now.
 
+* The file already comes with a few models I added from mp_raid.
+
 ### Known issues
 - Decals use the same UV set as the base material below them so some might look weird
 - SpotLight direction might be wrong
