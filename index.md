@@ -29,7 +29,6 @@ To deal with that, follow these steps (I'll use one of mp_raid's vehicles as exa
 1. In Blender, find and click on any arrow that represents a missing model ![](/images/modelarrow.png)
 
 2. Copy the name of that model (everything before the double colon)
-
 ![](/images/modelname.png)
 
 
