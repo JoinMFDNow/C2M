@@ -38,6 +38,7 @@ To deal with that, follow these steps (I'll use one of mp_raid's vehicles as exa
 ### Known issues
 - Decals use the same UV set as the base material below them so some might look weird
 - SpotLight direction might be wrong
+- Certain shaders aren't supported yet
 
 Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
