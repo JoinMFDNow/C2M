@@ -26,11 +26,8 @@
 For whatever reason, the dynamic model names displayed in map ents aren't always the actual names of the models, so dynamic models that weren't found will be spawned as arrows in Blender instead.
 
 To deal with that, follow these steps (I'll use one of mp_raid's vehicles as example):
-1. In Blender, find and click on any arrow that represents a missing model ![](/images/modelarrow.png)
-
+1. In Blender, find and click on any arrow that represents a missing model
 2. Copy the name of that model (everything before the double colon)![](/images/modelname.png)
-
-
 3. Blender will add the missing models to `dynamic_models.cfg` in C2M's main folder
 4. Using Greyhound/Wraith, find the models you want to add, and get their actual name (I found out that Blender model `veh_t6_civ_sportscar_static_silver` is actually named `veh_t6_civ_sportscar_whole_silver`)
 5. Once you got the name of the model, go back to `dynamic_models.cfg` and replace `xmodelName` with the actual name. **You can delete any model you don't wish to add**
