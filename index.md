@@ -20,11 +20,11 @@
 1. Load any map (preferrably via private match)
 2. Click the circle arrow button to load BSP
 3. After the map data appears on the right side of C2M's window, hit the box button to extract map data and wait untill map & textures are exported (might consume a lot of memory and time, be patient).
-4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map. (May take a while, so be patient)
+4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
 
 ### Known issues
-- Decals use the same UV set as the base material below them
+- Decals use the same UV set as the base material below them so some might look weird
 - SpotLight direction might be wrong
 
 Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
