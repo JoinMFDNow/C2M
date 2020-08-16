@@ -28,8 +28,7 @@ For whatever reason, the dynamic model names displayed in map ents aren't always
 To deal with that, follow these steps (I'll use one of mp_raid's vehicles as example):
 1. In Blender, find and click on any arrow that represents a missing model ![](/images/modelarrow.png)
 
-2. Copy the name of that model (everything before the double colon)
-![](/images/modelname.png)
+2. Copy the name of that model (everything before the double colon)![](/images/modelname.png)
 
 
 3. Blender will add the missing models to `dynamic_models.cfg` in C2M's main folder
