@@ -17,8 +17,8 @@
 
 ### Usage
 1. Load any map (preferrably via private match)
-2. Click the circle arrow button to load BSP
-3. After the map data appears on the right side of C2M's window, hit the box button to extract map data and wait untill map & textures are exported (might consume a lot of memory and time, be patient).
+2. Click the circle arrow button to load MAP and wait till map data appears
+3. Click the box button to extract map data and wait untill everything's exported (might consume a lot of memory and time).
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
 ### Dynamic models
