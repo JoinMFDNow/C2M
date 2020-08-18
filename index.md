@@ -1,7 +1,3 @@
-# C2M 2.0 BETA & Blender 2.8+ intergation
-
-## [**DOWNLOAD**](https://github.com/sheilan102/C2M/raw/gh-pages/C2M_BETA.rar)
-
 ### Supported games
 - BO2
 
