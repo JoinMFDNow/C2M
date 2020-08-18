@@ -4,7 +4,7 @@
 @import"{{ site.theme }}";
 
 html {
-  background:#1B1E22;
+  background:#FF141619;
   height: 100%;
 }
 .wrapper {
@@ -12,11 +12,11 @@ html {
   box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
 }
 body {
-  color:#add9ff;
+  color:#D9EFFF;
 }
 header {
   border-radius: 8px 8px 0 0;
-  background:#234252;
+  background:#2A313E;
   position:relative;
   padding:15px 20px;
   border-bottom:1px solid #3A464B;
@@ -36,5 +36,9 @@ header {
   }
 }
 h1, h2, h3, h4, h5, h6 {
-  color:#89aac7;
+  color:#7090a7;
+}
+strong {
+  color:#222;
+  font-weight:700;
 }
