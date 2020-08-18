@@ -39,6 +39,15 @@ h1, h2, h3, h4, h5, h6 {
   color:#7090a7;
 }
 strong {
-  color:#5ccbe4;
+  color:#70c3ff;
   font-weight:700;
+}
+pre {
+  background: #ffffff;
+  color:#f8f8f2;
+  margin:0 -20px 20px;
+
+  code {
+    color:#4cbeca;
+  }
 }
