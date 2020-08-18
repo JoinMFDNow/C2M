@@ -3,8 +3,8 @@
 
 @import"{{ site.theme }}";
 
-.page-header{
-color:#ffff;
-background-color:#A067AB;
-background-image:linear-gradient(120deg,#5073B8,#A067AB);
+html {
+  background:#1B1E22;
+  background:#1B1E22 linear_gradient(#1B1E22, #2F3237) fixed;
+  height: 100%;
 }
