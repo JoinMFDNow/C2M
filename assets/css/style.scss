@@ -7,7 +7,13 @@ html {
   background:#1B1E22;
   height: 100%;
 }
-
+.wrapper {
+  background:#3a414a;
+  box-shadow: rgba(#000, 0.2) 0 0 0 1px, rgba(#000, 0.45) 0 3px 10px;
+}
+body {
+  color:#ffffff;
+}
 header {
   border-radius: 8px 8px 0 0;
   background:#234252;
