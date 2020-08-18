@@ -8,3 +8,14 @@ html {
   background:#1B1E22 linear_gradient(#1B1E22, #2F3237) fixed;
   height: 100%;
 }
+a {
+  color:#03A4DC;
+  text-decoration:none;
+}
+header {
+  border-radius: 8px 8px 0 0;
+  background:#253F4B;
+  background: linear_gradient(#273738, #253F4B);
+  position:relative;
+  padding:15px 20px;
+  border-bottom:1px solid #3A464B;
