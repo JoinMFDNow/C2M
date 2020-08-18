@@ -18,18 +18,6 @@
 3. Click the box button to extract map data and wait untill everything's exported (might take some time).
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
-### Dynamic models
-For whatever reason, the dynamic model names displayed in map ents aren't always the actual names of the models, so dynamic models that weren't found will be spawned as arrows in Blender instead and added to `dynamic_models.cfg` in C2M's main folder.
-
-To deal with that, follow these steps (I'll use one of mp_raid's vehicles as example):
-1. In Blender, find and click on any arrow that represents a missing model
-2. Find that model in `dynamic_models.cfg`
-3. Using Greyhound/Wraith, find the models you wish to add, and get their actual name (What appeared in Blender as `veh_t6_civ_sportscar_static_silver` was found in Greyhound as `veh_t6_civ_sportscar_whole_silver`)
-4. Once you got the name of the model, go back to `dynamic_models.cfg` and replace `xmodelName` with the name you found in Greyhound. **You can delete any model you don't wish to add**
-5. Those models will be added the next time you export the map.
-
-* The file already comes with a few models I added from mp_raid.
-
 ### Known issues
 - Decals use the same UV set as the base material below them so some might look weird
 - SpotLight power might be wrong, but most of the data should be correct
