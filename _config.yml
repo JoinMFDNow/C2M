@@ -1,6 +1,5 @@
 theme: jekyll-theme-modernist
 title: "C2M 2.0 BETA"
-show_downloads: "true"
-google_analytics: "true"
+show_downloads: "false"
 github:
   zip_url: https://github.com/sheilan102/C2M/releases/download/1.9.0.1/C2M_BETA.zip
