@@ -8,10 +8,6 @@ html {
   background:#1B1E22 linear_gradient(#1B1E22, #2F3237) fixed;
   height: 100%;
 }
-a {
-  color:#ffffff;
-  text-decoration:none;
-}
 
 header {
   border-radius: 8px 8px 0 0;
@@ -26,6 +22,6 @@ header {
     font-size:24px;
     line-height:1.2;
     color:#ffffff;
-    text-shadow:rgba(#fff, 0.9) 0 1px 0;
+    text-shadow:rgba(#069, 0.9) 0 1px 0;
   }
 }
