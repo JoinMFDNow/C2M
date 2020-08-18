@@ -5,13 +5,12 @@
 
 html {
   background:#1B1E22;
-  background:#1B1E22 linear_gradient(#1B1E22, #2F3237) fixed;
   height: 100%;
 }
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#005f8f;
+  background:#234252;
   position:relative;
   padding:15px 20px;
   border-bottom:1px solid #3A464B;
@@ -22,5 +21,8 @@ header {
     line-height:1.2;
     color:#ffffff;
     text-shadow:rgba(#0094cf, 0.9) 0 1px 0;
+  }
+  ul {
+    background:#5198DF;
   }
 }
