@@ -26,6 +26,7 @@
 
 #### On the roadmap
 - CoD4 & BO3 support (by the end of 9/4)
+
 Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
 
