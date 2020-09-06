@@ -1,9 +1,3 @@
-|                |     Models     |    Textures    |     Lights     |     Decals     |
-| -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
-|    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
-|    **BO2**     |      Yes       |      Yes       |      Yes       |      Yes       |
-|    **BO3**     |      Yes       |      Yes       |      No        |      Yes       |
-
 ### Installation
 1. Extract all files
 2. In Blender, go to **Edit > Preferences**
@@ -15,14 +9,19 @@
 3. Click the box button to extract map data and wait untill everything's exported (might take some time).
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
+### Features
+
+|                |     Models     |    Textures    |     Lights     |     Decals     |
+| -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
+|    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
+|    **BO2**     |      Yes       |      Yes       |      Yes       |      Yes       |
+|    **BO3**     |      Yes       |      Yes       |      No        |      Yes       |
+
 ### Known issues
-- Decals use the same UV set as the base material below them so some might look weird
+- BO2 Decals use the same UV set as the base material below them so some might look weird
 - SpotLight power might be wrong, but most of the data should be correct
 - Some shaders aren't supported yet
 - I recommend disabling lights you don't see because they seem to be really heavy on Blender.
-
-#### On the roadmap
-- CoD4 & BO3 support in the coming weeks
 
 Feel free to report bugs via [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
