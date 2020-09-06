@@ -7,9 +7,9 @@
 
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
-|      COD4      |      Yes       |      Yes       |      Yes       |      Yes       |
-|      BO2       |      Yes       |      Yes       |      Yes       |      Yes       |
-|      BO3       |      Yes       |      Yes       |      No        |      Yes       |
+|    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
+|    **BO2**     |      Yes       |      Yes       |      Yes       |      Yes       |
+|    **BO3**     |      Yes       |      Yes       |      No        |      Yes       |
 
 ### Installation
 1. Extract all files
