@@ -1,11 +1,12 @@
 ### Supported games
 - BO2
 
-### Blender plugin features
-- Models
-- Materials
-- Lights
-- Decals
+### Features
+|      GAME      |      COD4      |       BO2      |       BO3      |
+| -------------- | -------------- | -------------- | -------------- |
+| Dynamic Models |       Yes      |       Yes      |       Yes      |
+|     Lights     |    SunLight    |       Yes      |       No       |
+|     Decals     |       Yes      |       Yes      |       Yes      |
 
 ### Installation
 1. Extract all files
