@@ -2,11 +2,11 @@
 - BO2
 
 ### Features
-|                |      COD4      |       BO2      |       BO3      |
+|                | Dynamic Models |     Lights     |     Decals     |
 | -------------- | -------------- | -------------- | -------------- |
-| Dynamic Models |       Yes      |       Yes      |       Yes      |
-|     Lights     |    SunLight    |       Yes      |       No       |
-|     Decals     |       Yes      |       Yes      |       Yes      |
+|      COD4      |       Yes      |       Yes      |       Yes      |
+|      BO2       |       Yes      |     SunLight   |       Yes      |
+|      BO3       |       Yes      |       Yes      |       Yes      |
 
 ### Installation
 1. Extract all files
