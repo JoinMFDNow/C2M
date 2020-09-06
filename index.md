@@ -1,5 +1,3 @@
-### Supported Games
-
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
 |    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
