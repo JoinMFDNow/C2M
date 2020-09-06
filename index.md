@@ -1,10 +1,11 @@
 ### Supported games
 - BO2
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|                | Dynamic Models |     Lights     |     Decals     |
+| -------------  | -------------  | -------------  | -------------  |
+|      COD4      |      Yes       |      Yes       |      Yes       |
+|      BO2       |      Yes       |      Yes       |      Yes       |
+|      BO3       |      Yes       |      No        |      Yes       |
 
 ### Installation
 1. Extract all files
