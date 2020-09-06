@@ -2,7 +2,7 @@
 - BO2
 
 ### Features
-|      GAME      |      COD4      |       BO2      |       BO3      |
+|                |      COD4      |       BO2      |       BO3      |
 | -------------- | -------------- | -------------- | -------------- |
 | Dynamic Models |       Yes      |       Yes      |       Yes      |
 |     Lights     |    SunLight    |       Yes      |       No       |
