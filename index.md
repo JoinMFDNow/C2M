@@ -1,13 +1,6 @@
 ### Supported games
 - BO2
 
-### Features
-|                | Dynamic Models |     Lights     |     Decals     |
-| -------------- | -------------- | -------------- | -------------- |
-|      COD4      |       Yes      |       Yes      |       Yes      |
-|      BO2       |       Yes      |     SunLight   |       Yes      |
-|      BO3       |       Yes      |       No      |       Yes      |
-
 ### Installation
 1. Extract all files
 2. In Blender, go to **Edit > Preferences**
