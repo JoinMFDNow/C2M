@@ -1,5 +1,9 @@
 ### Supported games
+- COD4
 - BO2
+- BO3
+
+### Features
 
 |                | Dynamic Models |     Lights     |     Decals     |
 | -------------  | :-----------:  | -------------  | -------------  |
