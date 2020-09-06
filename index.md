@@ -1,9 +1,4 @@
-### Supported games
-- COD4
-- BO2
-- BO3
-
-### Features
+### Supported Games
 
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
