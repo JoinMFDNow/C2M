@@ -14,7 +14,7 @@
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
 |    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
-|    **BO2**     |      Yes       |      Yes       |      Yes       |      Yes       |
+|    **BO2**     |      Yes       |      Yes       |      Yes       | Experimental   |
 |    **BO3**     |      Yes       |      Yes       |      No        |      Yes       |
 
 ### Known issues
