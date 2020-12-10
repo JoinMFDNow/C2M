@@ -10,9 +10,9 @@
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
 ### Export content
-- C2M file - currently only supported by Blender plugin
-- IWMap file - all static & dynamic models listed as entities
-- OBJ File - has all map geometry (no xmodels)
+ - C2M file - currently only supported by Blender plugin
+ - IWMap file - all static & dynamic models listed as entities
+ - OBJ File - has all map geometry (no xmodels)
 
 ### Supported Games
 |                |     Models     |    Textures    |     Lights     |     Decals     |
