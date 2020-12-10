@@ -16,12 +16,12 @@
 |    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
 |    **MW2**     |      Yes       |      Yes       |      Yes       |      Yes       |
 |    **MW3**     |      Yes       |      Yes       |      Yes       |      Yes       |
-|    **MWR**     |      Yes       |      Yes       |      Yes       |      Yes       |
 |    **BO2**     |      Yes       |      Yes       |      Yes       |  Experimental  |
 |    **BO3**     |      Yes       |      Yes       |      No        |      Yes       |
 |    **BO4**     |      Yes       |      Yes       |      No        |      Yes       |
 |   **GHOSTS**   |      Yes       |      Yes       |      Yes       |      No        |
 |    **AW**      |      Yes       |      Yes       |      Yes       |      No        |
+|    **MWR**     |      Yes       |      Yes       |      Yes       |      No        |
 |    **IW**      |      Yes       |      Yes       |      Yes       |      No        |
 |    **WW2**     |      Yes       |      Yes       |      Yes       |      No        |
 
