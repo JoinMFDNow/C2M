@@ -38,7 +38,7 @@
 If you wish to support the development of this tool, feel free to donate via [PayPal](https://paypal.me/ksheilan).
 
 
-Credits -
+### Credits
 
 [**Scobalula**](https://github.com/Scobalula) - Game Research (Husky, Greyhound) & PhilLibX.
 
