@@ -31,11 +31,15 @@
 - Some shaders aren't supported so don't expect 1:1 accuracy with the game
 - I recommend disabling lights/models you don't see because they seem to be really heavy on Blender.
 
+
 * This is a beta version, so bugs are expected. If you encounter any, please report at [Twitter](https://twitter.com/SHEILANff) or [AGR Discord (#C2M channel)](https://discord.gg/JcEvDBH)
 
 
 If you wish to support the development of this tool, feel free to donate via [PayPal](https://paypal.me/ksheilan).
 
+
 Credits -
+
 [**Scobalula**](https://github.com/Scobalula) - Game Research (Husky, Greyhound) & PhilLibX.
+
 [**DTZxPorter**](https://github.com/dtzxporter) - Game Research (Wraith) & ExportX (XMODEL_BIN & XMODEL_EXPORT).
