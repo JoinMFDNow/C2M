@@ -1,4 +1,4 @@
-### Installation
+### Blender plugin installation
 1. Extract all files
 2. In Blender, go to **Edit > Preferences**
 3. Click the `Install...` button and select **C2M_IMPORTER.zip**
@@ -9,8 +9,12 @@
 3. Click the box button to extract map data and wait untill everything's exported (might take some time).
 4. In Blender, click **File > Import > CoDMap (.c2m)** and import our map.
 
-### Features
+### Export content
+- C2M file - currently only supported by Blender plugin
+- IWMap file - all static & dynamic models listed as entities
+- OBJ File - has all map geometry (no xmodels)
 
+### Supported Games
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
 |    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
