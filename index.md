@@ -15,6 +15,7 @@
  - OBJ File - has all map geometry (no xmodels)
 
 ### Supported Games
+
 |                |     Models     |    Textures    |     Lights     |     Decals     |
 | -------------  | :-----------:  | :-----------:  | :-----------:  | :-----------:  |
 |    **COD4**    |      Yes       |      Yes       |      Yes       |      Yes       |
