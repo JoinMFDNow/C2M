@@ -40,6 +40,6 @@ If you wish to support the development of this tool, feel free to donate via [Pa
 
 ### Credits
 
-[**Scobalula**](https://github.com/Scobalula) - Game Research (Husky, Greyhound) & PhilLibX.
+- [**Scobalula**](https://github.com/Scobalula) - Game Research (Husky, Greyhound) & PhilLibX.
 
-[**DTZxPorter**](https://github.com/dtzxporter) - Game Research (Wraith) & ExportX (XMODEL_BIN & XMODEL_EXPORT).
+- [**DTZxPorter**](https://github.com/dtzxporter) - Game Research (Wraith) & ExportX (XMODEL_BIN & XMODEL_EXPORT).
